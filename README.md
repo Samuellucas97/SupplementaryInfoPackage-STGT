@@ -4,13 +4,13 @@ This is the supplementary material for the Socio-Technical Grounded Theory (STGT
 
 ### Content
 
-* [Pre-interview questionnaire](#pre-interview-questionnaire): It contains the consent form, demographic questions, and experience with LLM tools. 
+* [Pre-interview questionnaire](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/pre-interview-questionnaire.pdf): It contains the consent form, demographic questions, and experience with LLM tools. 
  
-* [Interview Guide](#interview-guide): The interview guide for the semi-structured interviews. The file contains the updates across the rounds. 
+* [Interview Guide](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/Interview%20Guide.pdf): The interview guide for the semi-structured interviews. The file contains the updates across the rounds. 
 
-* [STGT Example](#stgt-example): It contains examples of applying STGT for data analysis
+* [STGT Example](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/STGTExample.pdf): It contains examples of applying STGT for data analysis
 
-* [Set of Memos](#set-of-memos): Main memos from the analysis of interviews. 
+* [Set of Memos](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/Memos.pdf): Main memos from the analysis of interviews. 
 
 ### Cites
 
