@@ -12,6 +12,11 @@ This is the supplementary material for the Socio-Technical Grounded Theory (STGT
 
 * [Set of Memos](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/Memos.pdf): Main memos from the analysis of interviews. 
 
+* [Assumption List](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/AssumptionList.pdf): Acknowledging researcher bias during data analysis. 
+
+* [LLM Capabilities](https://github.com/Samuellucas97/SupplementaryInfoPackage-STGT/blob/main/LLMsCapabilities.pdf): Representative (not exhaustive) list of LLM capabilities.
+
+ 
 ### Cites
 
 If you find this repository useful, please cite our survey paper:
